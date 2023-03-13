@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T07:55:18.049Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7u091Fxbbg08HsVg-2cc" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T07:55:41.842Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Q8LucKcWKqp3Dun5W9f0" version="21.0.6" type="github" pages="2">
   <diagram name="当前服务" id="t0UJckb2Ev8VVVna4g9e">
     <mxGraphModel dx="2599" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
             <mxPoint x="570" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-FBFodK5nEFQoo2l8xee-39" value="收银员登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-FBFodK5nEFQoo2l8xee-37" vertex="1" connectable="0">
+        <mxCell id="-FBFodK5nEFQoo2l8xee-39" value="终端登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-FBFodK5nEFQoo2l8xee-37" vertex="1" connectable="0">
           <mxGeometry x="-0.1799" relative="1" as="geometry">
             <mxPoint x="7" y="6" as="offset" />
           </mxGeometry>
@@ -46,8 +46,8 @@
             <mxGeometry x="230" y="310" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="-FBFodK5nEFQoo2l8xee-20" value="收银台登录、会员交易业务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=3;" parent="1" source="-FBFodK5nEFQoo2l8xee-5" target="-FBFodK5nEFQoo2l8xee-2" edge="1">
-          <mxGeometry x="0.0049" relative="1" as="geometry">
+        <mxCell id="-FBFodK5nEFQoo2l8xee-20" value="终端登录、会员交易业务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=3;" parent="1" source="-FBFodK5nEFQoo2l8xee-5" target="-FBFodK5nEFQoo2l8xee-2" edge="1">
+          <mxGeometry x="0.0084" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
